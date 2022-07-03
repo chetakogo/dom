@@ -1,0 +1,1 @@
+body{color:#b03232}.game{display:grid;grid-template-columns:repeat(4,1fr);width:800px}.game div{display:flex;width:200px;height:200px;border:1px solid #999}.has-goblin{display:block}.goblin{display:none}
